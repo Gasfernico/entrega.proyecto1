@@ -1,0 +1,79 @@
+nav
+{
+    background-color: rgb(8, 8, 232);
+    display: flex;
+    text-align: center;
+    text-indent: 5em;
+
+}
+
+#botonestilo
+{
+    text-align: center;
+
+}
+
+header img
+{
+    border-radius: 50%;
+}
+
+header 
+{
+    background-color: rgb(8, 193, 230);
+    text-indent: 25px;
+    font-size: larger;
+}
+
+body
+{
+    text-align: center;
+    background-color: rgba(211, 211, 211, 0.913);
+}
+
+p.texto
+{
+	text-align: justify;
+    width: 500px;
+    height: 80px;
+    margin-left:150px;
+
+}
+
+#columna1
+{
+    width: 40%;
+    float: left;
+    position: relative;
+}
+
+#columna2 
+{
+    width: 60%;
+    position: relative;
+    float: left;
+}
+
+#footer
+{
+    display: inline;
+    background-color: aquamarine;
+    float: bottom;
+}
+
+#contacto 
+{
+    float: left; 
+    text-align: left;
+    margin-left: 400px;
+    margin-top: 40px;
+}
+
+#redes
+{
+    float: left;
+    text-align: left;
+    margin-left: 900px;
+   
+   
+}
